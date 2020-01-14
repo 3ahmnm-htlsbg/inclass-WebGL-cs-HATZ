@@ -1,4 +1,4 @@
-# Unity2019114f1-2D-Template
+# inclass-WebGL-cs-HATZ
 
 ### Project description: 
 The goal of this project is to create a canvas, that with the push of a button moves a ball to one of 4 pre-assigned corners of said canvas. 
@@ -31,4 +31,4 @@ None
 - Practiced how to create a working GUI
 - Practiced Coding and writing C# Scripts 
 
-Copyright by you HATZ
+Copyright by HATZ
